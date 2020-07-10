@@ -54,8 +54,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Supanat Jintawatsakoon",
+        "meta_descr": "About me",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
