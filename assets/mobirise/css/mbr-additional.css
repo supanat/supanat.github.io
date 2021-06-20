@@ -2888,6 +2888,30 @@ section.lazy-placeholder:after {
 .cid-rUuBbmVczq .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-sARbBbnjNJ {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-sARbBbnjNJ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sARbBbnjNJ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-sARbBbnjNJ .mbr-section-title {
+  color: #232323;
+  text-align: left;
+}
+.cid-sARbBbnjNJ .mbr-text,
+.cid-sARbBbnjNJ .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
 .cid-s4iHwpjIfI {
   padding-top: 30px;
   padding-bottom: 30px;
